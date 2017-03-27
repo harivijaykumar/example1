@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Position</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Positions</value>
+    </caseValues>
+    <fields>
+        <label><!-- CANDIDATE ADDRESS --></label>
+        <name>CANDIDATE_ADDRESS__c</name>
+    </fields>
+    <fields>
+        <label><!-- MAX PAY --></label>
+        <name>MAX_PAY__c</name>
+    </fields>
+    <fields>
+        <label><!-- MIN PAY --></label>
+        <name>MIN_PAY__c</name>
+    </fields>
+    <fields>
+        <label><!-- SKILLS --></label>
+        <name>SKILLS__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
